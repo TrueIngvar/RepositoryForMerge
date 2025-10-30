@@ -1,8 +1,16 @@
 # !Note.is.not.a.note
 # !Water
-# !Note2
-# !Note3
-# !Note4
+
+<br><span style="color:whote">Текст111111</span>
+<br><span style="color:blue">Текст</span>
+<br><span style="color:red">Текст</span>
+
+<br><kbd style="color:blue">Красный</kbd>
+<br><mark style="background:blue">Выделенный</mark>
+
+<br><div style="color:red">Это красный текст</div>
+<br><div style="color:blue">Это синий текст</div>
+
 # !Note5
 # !Note6
 # !Note7
