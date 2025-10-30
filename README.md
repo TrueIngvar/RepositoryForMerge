@@ -6,7 +6,7 @@
 <br><span style="color:red">Текст</span>
 
 <br><kbd style="color:red">Красный</kbd>
-<br><mark style="background:yellow">Выделенный</mark>
+<br><mark style="background:red">Выделенный</mark>
 
 # !Note5
 # !Note6
