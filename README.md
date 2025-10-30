@@ -8,6 +8,9 @@
 <br><kbd style="color:blue">Красный</kbd>
 <br><mark style="background:blue">Выделенный</mark>
 
+<br><div style="color:red">Это красный текст</div>
+<br><div style="color:blue">Это синий текст</div>
+
 # !Note5
 # !Note6
 # !Note7
