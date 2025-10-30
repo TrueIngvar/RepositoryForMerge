@@ -9,4 +9,4 @@
 
 Мы запускаем регистрацию на бетатестирование. Пожалуйста, напишите свои контакты на адрес [NeuroStartUp@nsu.io](mailto:NeuroStartUp@nsu.io).
 
-# ![One more kek](img/kek.png) ))0)
+# ![))0)](img/kek.png)
