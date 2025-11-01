@@ -1,0 +1,13 @@
+name: Clean up branches
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  delete-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete branch
+        if: github.event.pull_request.merged == true
+        run: |
+          git push origin --delete ${{ github.event.pull_request.head.ref }}
